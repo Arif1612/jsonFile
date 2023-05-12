@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "logo": "../src/assets/All Images/google-1-1 1.png",
+    "position": "Technical Database Engineer",
+    "company": "Google LLC",
+    "place": "Remote",
+    "fullTime": "Full Time",
+    "country": "California, US",
+    "salary": "Salary: 150-250K",
+    "details": "View Details",
+    "location": "../src/assets/Icons/locations.png",
+    "money": "../src/assets/Icons/money.png"
+  },
+  {
+    "id": 2,
+    "logo": "../src/assets/All Images/netflix-4 1.png",
+    "position": "Senior Product Designer",
+    "company": "Netflix",
+    "place": "Onsite",
+    "fullTime": "Full Time",
+    "country": "Dhaka, Bangladesh",
+    "salary": "Salary: 100-150K",
+    "details": "View Details",
+    "location": "../src/assets/Icons/locations.png",
+    "money": "../src/assets/Icons/money.png"
+  },
+  {
+    "id": 3,
+    "logo": "../src/assets/All Images/tesla-9 1.png",
+    "position": "TSoftware Engineer",
+    "company": "Tesla",
+    "place": "Onsite",
+    "fullTime": "Full Time",
+    "country": "San Carlos, US",
+    "salary": "Salary: 80-120K",
+    "details": "View Details",
+    "location": "../src/assets/Icons/locations.png",
+    "money": "../src/assets/Icons/money.png"
+  },
+  {
+    "id": 4,
+    "logo": "../src/assets/All Images/airbnb.png",
+    "position": "Technical Database Engineer",
+    "company": "Airbnb",
+    "place": "Remote",
+    "fullTime": "Full Time",
+    "country": "Mumbai, India",
+    "salary": "Salary: 50-80K",
+    "details": "View Details",
+    "location": "../src/assets/Icons/locations.png",
+    "money": "../src/assets/Icons/money.png"
+  },
+  {
+    "id": 5,
+    "logo": "../src/assets/All Images/microsoft.png",
+    "position": "Full Stack Developer",
+    "company": "Microsoft",
+    "place": "Remote",
+    "fullTime": "Full Time",
+    "country": "Austin, texas",
+    "salary": "Salary: 150-200K",
+    "details": "View Details",
+    "location": "../src/assets/Icons/locations.png",
+    "money": "../src/assets/Icons/money.png"
+  },
+  {
+    "id": 6,
+    "logo": "../src/assets/All Images/apple.png",
+    "position": " iOS Developer",
+    "company": "Apple",
+    "place": "Remote",
+    "fullTime": "Full Time",
+    "country": "California, US",
+    "salary": "Salary: 150-200K",
+    "details": "View Details",
+    "location": "../src/assets/Icons/locations.png",
+    "money": "../src/assets/Icons/money.png"
+  }
+]
